@@ -1,2 +1,2 @@
-# Projeto-Qlik-Sense
+# Qlik Sense
 Dashboards e problemas resolvidos com o Qlik Sense
