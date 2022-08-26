@@ -2,6 +2,8 @@
 
 Esse Exercício, o seguinte código foi utilizado:
 
-![image](https://user-images.githubusercontent.com/65839541/131937157-2017a34a-a41a-4cc1-b78b-17ecfc950bb2.png)
+Para extrair a coluna Measure, encontro a primeira ocorrência de uma letra e extraio dali pra frente. Já para a coluna Bottle, utilizei a mesma lógica acima, eu encontro toda a string contendo as letras e removo elas, sobrando apenas os números.
+
+![image](https://user-images.githubusercontent.com/65839541/186793899-9fae727d-2acb-41ae-8567-a14c0a0ab7bb.png)
 
 ![image](https://user-images.githubusercontent.com/65839541/131937208-2b600bc4-4934-47af-9f4d-89ca119c608a.png)
