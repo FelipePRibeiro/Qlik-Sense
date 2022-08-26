@@ -1,2 +1,2 @@
 # Qlik Sense
-Dashboards e problemas resolvidos com o Qlik Sense
+Exercícios com o Qlik Sense
